@@ -1,0 +1,15 @@
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column nowrap;
+    height: auto;
+    width: 100%;
+}
+
+button {
+    border: none;
+    padding: 1rem;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+}
